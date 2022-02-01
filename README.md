@@ -1,4 +1,4 @@
-# Giovanni Portfolio
+# Giovanni's Fun Portfolio
 
 In this assignment, you'll create a simple web page built with Markdown that displays information about yourself.
 
